@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">hey ! This is TANVIR 👋</h3>
+<h3 align="center">Hey ! This is TANVIR 👋</h3>
 
 ###
 
